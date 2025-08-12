@@ -38,5 +38,5 @@ Add, mark completed, and delete tasks with an easy-to-use interface.
 
 Created by Dikshant Gaikwad.  
 GitHub: [https://github.com/dikshantdev5](https://github.com/dikshantdev5)  
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: [https://www.linkedin.com/in/dikshant-gaikwad-1375a130a/]
 
